@@ -1,0 +1,2 @@
+# Wishlist extension for Stagen
+
