@@ -1,2 +1,13 @@
 ---
-__nothing: ~
+name: wishlist
+title: Wishlist
+author:
+  name: Denis Vidog
+  email: github@doubleds.ru
+  website: https://den4k.space
+imports:
+  imports:
+    - name: wishlist
+extras:
+  css:
+    - url: /css/wishlist.css
